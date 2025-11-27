@@ -9,7 +9,7 @@ Sistema de estoque que visa **melhorar o desempenho** no setor de almoxarifado.
 
 Antes de começar, você vai precisar ter as seguintes ferramentas instaladas em sua máquina:
 * [Node.js](https://nodejs.org/en/) (Recomendamos a versão LTS)
-* [JDK](https://www.oracle.com/java/technologies/downloads/) (Ex: Versão 17 ou superior)
+* [JDK](https://www.oracle.com/java/technologies/downloads/) (Versão 21)
 * [Maven](https://maven.apache.org/download.cgi) (Para o Back-end)
 * [MySQL](https://dev.mysql.com/downloads/mysql/) (O banco de dados)
 * Um gerenciador de pacotes (NPM ou Yarn).
