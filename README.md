@@ -3,7 +3,7 @@
 Sistema de estoque que visa **melhorar o desempenho** no setor de almoxarifado.
 
 ## Status do Projeto
-(Em desenvolvimento)
+(Completo)
 
 ## 🏁 Pré-requisitos
 
@@ -12,7 +12,7 @@ Antes de começar, você vai precisar ter as seguintes ferramentas instaladas em
 * [JDK](https://www.oracle.com/java/technologies/downloads/) (Versão 21)
 * [Maven](https://maven.apache.org/download.cgi) (Para o Back-end)
 * [MySQL](https://dev.mysql.com/downloads/mysql/) (O banco de dados)
-* Um gerenciador de pacotes (NPM ou Yarn).
+* Um gerenciador de pacotes (NPM).
 * Um navegador web (Chrome, Firefox, etc.).
 
 ## 🛠️ Tecnologias Usadas
@@ -27,6 +27,7 @@ Este projeto é dividido em duas partes principais (front-end e back-end):
     * Spring Boot (Para a criação da API REST)
 * **Banco de Dados:**
     * MySQL
+    * PostgreSQL
 
 
 ## 🚀 Instalação e Execução
