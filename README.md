@@ -22,7 +22,13 @@ Aplicação completa para cadastro, movimentação e consulta de produtos em est
 - Interface responsiva
 
 ## 📸 Demonstração
-*(Adicione 3-4 prints bonitos das telas aqui)*
+<img width="1079" height="595" alt="image" src="https://github.com/user-attachments/assets/51440d4c-8f6f-4e51-b472-cebda95ed288" />
+<img width="1060" height="594" alt="image" src="https://github.com/user-attachments/assets/3b3ac126-f854-489e-b833-f5a8e7d56667" />
+<img width="1082" height="544" alt="image" src="https://github.com/user-attachments/assets/55717faa-768a-453c-a9c5-763e242a5af4" />
+<img width="1074" height="543" alt="image" src="https://github.com/user-attachments/assets/cc17bff8-91fd-4ec5-bc9c-6cefe11e8c5d" />
+<img width="1078" height="560" alt="image" src="https://github.com/user-attachments/assets/0e5bd3af-be6d-464f-9644-7e749d7380ee" />
+
+
 
 ## 🌐 Aplicação Online
-**🔗 Link da aplicação:** [https://stockbot-web.onrender.com]
+**🔗 Link da aplicação:** https://stockbot-web.onrender.com
