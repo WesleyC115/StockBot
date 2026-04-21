@@ -16,7 +16,6 @@ import {
   Stack,
 } from "@mui/material";
 import CheckCircleIcon from "@mui/icons-material/CheckCircle";
-import EmailIcon from "@mui/icons-material/Email";
 import ParticlesBackground from "../components/ParticlesBackground";
 
 function LandingPage() {
@@ -205,7 +204,7 @@ function LandingPage() {
         </Grid>
       </Container>
 
-      {/* --- RODAPÉ SIMPLES --- */}
+{/* --- RODAPÉ SIMPLES --- */}
       <Box
         sx={{
           backgroundColor: "rgba(0,0,0,0.8)",
@@ -217,37 +216,13 @@ function LandingPage() {
         <Container maxWidth="lg">
           <Stack
             direction={{ xs: "column", sm: "row" }}
-            justifyContent="space-between"
+            justifyContent="center"
             alignItems="center"
             spacing={2}
           >
             <Typography variant="body2" sx={{ color: "rgba(255,255,255,0.6)" }}>
-              © {new Date().getFullYear()} StockBot. Todos os direitos
-              reservados.
+              © {new Date().getFullYear()} StockBot. Todos os direitos reservados.
             </Typography>
-
-            <Box
-              sx={{
-                display: "flex",
-                alignItems: "center",
-                gap: 1,
-                color: "#fff",
-              }}
-            >
-              <EmailIcon fontSize="small" sx={{ color: "#C00000" }} />
-              <Typography
-                variant="body2"
-                component="a"
-                href="mailto:stockbotdevstest@gmail.com"
-                sx={{
-                  color: "#fff",
-                  textDecoration: "none",
-                  "&:hover": { color: "#C00000" },
-                }}
-              >
-                stockbotdevstest@gmail.com
-              </Typography>
-            </Box>
           </Stack>
         </Container>
       </Box>
