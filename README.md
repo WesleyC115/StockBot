@@ -25,9 +25,4 @@ Aplicação completa para cadastro, movimentação e consulta de produtos em est
 *(Adicione 3-4 prints bonitos das telas aqui)*
 
 ## 🌐 Aplicação Online
-**🔗 Link da aplicação:** [Em breve - Deploy em andamento]
-
-*(Assim que terminar o deploy, substitua por seu link real)*
-
-## 📂 Repositório
-Frontend e Backend estão na mesma pasta monorepo para facilitar o entendimento.
+**🔗 Link da aplicação:** [https://stockbot-web.onrender.com]
